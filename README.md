@@ -1,2 +1,2 @@
-# my_portfolio
+# student-portfolio
 Моё портфолио/My Portfolio
