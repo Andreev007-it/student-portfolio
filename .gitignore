@@ -1,5 +1,17 @@
 # Prerequisites
 *.d
+.vs/
+*.user
+*.suo
+Debug/
+Release/
+x64/
+x86/
+*.db
+*.exe
+*.obj
+*.o
+ipch/
 
 # Compiled Object files
 *.slo
